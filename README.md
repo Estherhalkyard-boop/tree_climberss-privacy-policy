@@ -4,7 +4,7 @@ Last updated: 16/11/25
 
 1. Introduction
 
-Tree Climberss (“the App”, “we”, “us”) is committed to protecting your privacy.
+Tree Climberss is committed to protecting your privacy.
 This Privacy Policy explains what information we collect, how we use it, and what rights you have.
 
 By using Tree Climberss, you agree to the practices described in this policy.
