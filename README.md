@@ -61,8 +61,6 @@ To protect the safety of users or the integrity of the app
 
 We take reasonable technical measures to protect your data, including:
 
-Secure transmission (HTTPS)
-
 Limited access to logs
 
 Regular reviews of storage and security
@@ -71,7 +69,7 @@ Data is retained only as long as needed for the purposes listed above.
 
 6. Your Rights
 
-Depending on your region, you may have rights such as:
+You may have rights such as:
 
 Requesting access to your data
 
