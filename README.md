@@ -1,6 +1,6 @@
 Privacy Policy for Tree Climberss
 
-Last updated: 16/11/25
+Last updated: 18/11/25
 
 1. Introduction
 
