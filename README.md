@@ -1,26 +1,20 @@
-Privacy Policy for Sammys Gorilla Tag Horror (SGTH)
-
+Privacy Policy for Sammys Gorilla Tag Horror (Sammys Gorilla Tag Horror)
 Last updated: 19/02/26
 
-1. Introduction
+Introduction
+VEXLO Games is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and what rights you have.
 
-SGTH is committed to protecting your privacy.
-This Privacy Policy explains what information we collect, how we use it, and what rights you have.
+By using Sammys Gorilla Tag Horror, you agree to the practices described in this policy.
 
-By using SGTH, you agree to the practices described in this policy.
-
-2. Information We Collect
-
-SGTH may collect the following types of data:
+Information We Collect
+Sammys Gorilla Tag Horror may collect the following types of data:
 
 2.1 User-Provided Information
-
 Username or display name
 
 Any data you voluntarily provide while using the app or interacting with support
 
 2.2 Automatic Information
-
 The app may collect basic technical information for functionality and security, such as:
 
 Device type
@@ -31,11 +25,10 @@ Logs when errors occur
 
 We do NOT collect sensitive personal information unless you explicitly provide it.
 
-3. How We Use Your Information
-
+How We Use Your Information
 We use collected data only for the following purposes:
 
-To operate and improve SGTH
+To operate and improve Sammys Gorilla Tag Horror
 
 To provide support and respond to user requests
 
@@ -45,8 +38,7 @@ To comply with platform requirements
 
 To prevent abuse, fraud, or security issues
 
-4. Data Sharing
-
+Data Sharing
 We do not sell, rent, or trade your personal data.
 
 We may share limited data only when necessary:
@@ -57,8 +49,7 @@ When required by law or legal request
 
 To protect the safety of users or the integrity of the app
 
-5. Data Storage & Security
-
+Data Storage & Security
 We take reasonable technical measures to protect your data, including:
 
 Limited access to logs
@@ -67,8 +58,7 @@ Regular reviews of storage and security
 
 Data is retained only as long as needed for the purposes listed above.
 
-6. Your Rights
-
+Your Rights
 You may have rights such as:
 
 Requesting access to your data
@@ -79,8 +69,7 @@ Requesting correction of inaccurate data
 
 We will respond to such requests within a reasonable timeframe.
 
-7. Contact Information
-
+Contact Information
 If you have questions, concerns, or data requests, you can contact us at:
 
-Discord For Support:  https://discord.gg/pvrJUMSdj
+Discord For Support: https://discord.gg/pvrJUMSdj
