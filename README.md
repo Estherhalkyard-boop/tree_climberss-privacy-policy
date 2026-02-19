@@ -1,17 +1,17 @@
-Privacy Policy for Tree Climberss
+Privacy Policy for Sammys Gorilla Tag Horror (SGTH)
 
-Last updated: 18/11/25
+Last updated: 19/02/26
 
 1. Introduction
 
-Tree Climberss is committed to protecting your privacy.
+SGTH is committed to protecting your privacy.
 This Privacy Policy explains what information we collect, how we use it, and what rights you have.
 
-By using Tree Climberss, you agree to the practices described in this policy.
+By using SGTH, you agree to the practices described in this policy.
 
 2. Information We Collect
 
-Tree Climberss may collect the following types of data:
+SGTH may collect the following types of data:
 
 2.1 User-Provided Information
 
@@ -35,7 +35,7 @@ We do NOT collect sensitive personal information unless you explicitly provide i
 
 We use collected data only for the following purposes:
 
-To operate and improve Tree Climberss
+To operate and improve SGTH
 
 To provide support and respond to user requests
 
@@ -83,4 +83,4 @@ We will respond to such requests within a reasonable timeframe.
 
 If you have questions, concerns, or data requests, you can contact us at:
 
-👉 Discord: https://discord.gg/Xz83U4yN
+Discord For Support:  https://discord.gg/pvrJUMSdj
