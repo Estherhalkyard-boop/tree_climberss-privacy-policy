@@ -1,5 +1,7 @@
 Privacy Policy for Sammys Gorilla Tag Horror (Sammys Gorilla Tag Horror)
-Last updated: 19/02/26
+Last updated: 23/02/26
+
+This Privacy Policy describes how VEXLO Games (I) collect and use information in Sammys Gorilla Tag Horror.
 
 Introduction
 VEXLO Games is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and what rights you have.
